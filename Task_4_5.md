@@ -17,3 +17,11 @@ git merge Temp
 git push origin main
 
 touch Task_4_5.md
+
+git branch -a
+
+git add Task_4_5.md
+
+git commit -m "Readms file with Git commands for Task_4_5"
+
+git push origin main
