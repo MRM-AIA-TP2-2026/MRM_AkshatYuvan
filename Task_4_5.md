@@ -1,3 +1,11 @@
+git branch Temp
+
+git checkout Temp
+
+git push -u origin Temp
+
+git checkout Temp
+
 touch Task_3.md
 
 ls
